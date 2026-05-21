@@ -46,7 +46,7 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PjPuswa9MG3TKkxjWMxh-0" value="Raw Text" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="301" y="490" width="125" height="49" as="geometry" />
+          <mxGeometry x="301" y="480" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PjPuswa9MG3TKkxjWMxh-1" value="Text Cleaning&#xa;Lowercase&#xa;Remove Symbols" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="589" width="179" height="84" as="geometry" />
